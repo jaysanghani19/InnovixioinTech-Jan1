@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/drawable_play_button.png.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/drawable/play_button.png"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_quiz_item_layout.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/quiz_item_layout.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_quiz_recycler_view.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/quiz_recycler_view.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_add_question_fragment.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/add_question_fragment.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/navigation_quiz_activity_navigation.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/navigation/quiz_activity_navigation.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_dashboard_activity.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/dashboard_activity.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_quiz_activity.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/quiz_activity.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_question_item_layout.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/question_item_layout.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/xml_backup_rules.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_play_fragment.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/play_fragment.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/drawable_add_button.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/drawable/add_button.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/drawable_quiz_logo.png.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/drawable/quiz_logo.png"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_dialog_quiz_name.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/dialog_quiz_name.xml"
+    },
+    {
+        "merged": "com.jay.quiz.app-merged_res-53:/layout_play_fragment.xml.flat",
+        "source": "com.jay.quiz.app-main-55:/layout/play_fragment.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-merged_res-53:/layout_quiz_fragment.xml.flat",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/quiz_fragment.xml"
+    }
+]

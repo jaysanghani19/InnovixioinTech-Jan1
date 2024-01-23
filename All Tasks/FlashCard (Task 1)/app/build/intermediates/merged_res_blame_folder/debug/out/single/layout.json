@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-mergeDebugResources-52:/layout/dashboard_activity.xml",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/dashboard_activity.xml"
+    },
+    {
+        "merged": "com.jay.quiz.app-mergeDebugResources-52:/layout/play_fragment.xml",
+        "source": "com.jay.quiz.app-main-55:/layout/play_fragment.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-mergeDebugResources-52:/layout/quiz_fragment.xml",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/quiz_fragment.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-mergeDebugResources-52:/layout/add_question_fragment.xml",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/add_question_fragment.xml"
+    },
+    {
+        "merged": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-mergeDebugResources-52:/layout/play_fragment.xml",
+        "source": "/home/jaysanghani19/.gradle/daemon/8.0/com.jay.quiz.app-main-55:/layout/play_fragment.xml"
+    }
+]
