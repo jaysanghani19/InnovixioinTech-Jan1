@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Base.Theme.NewsTask3" parent="Theme.AppCompat">
         <!-- Customize your light theme here. -->
