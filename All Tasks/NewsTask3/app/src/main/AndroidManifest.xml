@@ -26,6 +26,11 @@
             android:name=".dashboardactvity.DashboardActivity"
             android:exported="true">
         </activity>
+        <activity
+            android:name=".newsactivity.NewsActivity"
+            android:exported="true">
+        </activity>
+
     </application>
 
 </manifest>

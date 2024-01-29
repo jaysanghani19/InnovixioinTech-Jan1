@@ -17,4 +17,7 @@ interface ArticleTableDao {
 
     @Query("DELETE FROM article_table")
     fun deleteAllEntries()
+
+    @Query("SELECT * FROM article_table WHERE article_number = :articleNumber")
+    fun getArticle(articleNumber : Int): ArticleTable
 }

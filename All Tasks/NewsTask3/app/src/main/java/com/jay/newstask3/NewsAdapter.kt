@@ -38,10 +38,25 @@ class NewsViewHolder(val view: View) : RecyclerView.ViewHolder(view) {
 
     @SuppressLint("SetTextI18n")
     fun bind(article: ArticleTable, clickListener: (ArticleTable) -> Unit) {
-        Picasso.get().load(article.urlToImage).error(R.drawable.error_icon).into(posterIV)
+        if (!article.urlToImage.equals("null")) {
+            Picasso.get().load(article.urlToImage).error(R.drawable.error_icon).into(posterIV)
+        } else{
+            posterIV.visibility = View.GONE
+        }
 
-        titleTV.text = article.title
-        authorTV.text = "Author : ${article.author}"
+        if (!article.title.equals("null")) {
+            titleTV.text = article.title
+        } else{
+            titleTV.visibility = View.GONE
+        }
+
+        if (!article.author.equals("null")) {
+            authorTV.text = "Author : ${article.author}"
+
+        } else{
+            authorTV.visibility = View.GONE
+        }
+
 
         view.setOnClickListener {
             clickListener(article)

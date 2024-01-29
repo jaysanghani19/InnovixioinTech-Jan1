@@ -8,7 +8,7 @@ import androidx.room.PrimaryKey
 data class ArticleTable(
     @PrimaryKey(autoGenerate = true)
     @ColumnInfo(name = ID)
-    val id: Int,
+    val articleNumber: Int,
     @ColumnInfo(name = AUTHOR)
     val author: String,
     @ColumnInfo(name = CONTENT)
@@ -25,7 +25,7 @@ data class ArticleTable(
     val urlToImage: String,
 ) {
     companion object {
-        const val ID = "id"
+        const val ID = "article_number"
         const val AUTHOR = "author"
         const val CONTENT = "content"
         const val DESCRIPTION = "description"
